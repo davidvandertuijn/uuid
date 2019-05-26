@@ -9,7 +9,7 @@ class Uuid
      *
      * @return string
      */
-    public static function generate()
+    public static function generate(): string
     {
         $s = strtoupper(md5(uniqid(rand(), true)));
 
