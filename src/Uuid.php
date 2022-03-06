@@ -2,6 +2,9 @@
 
 namespace Davidvandertuijn;
 
+/**
+ * Universally Unique Identifier (UUID).
+ */
 class Uuid
 {
     /**
