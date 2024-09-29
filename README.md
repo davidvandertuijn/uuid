@@ -6,6 +6,10 @@
 
 ![Universally Unique Identifier (UUID)](https://cdn.davidvandertuijn.nl/github/uuid.png)
 
+A Universally Unique Identifier (UUID) is a standardized identifier that is used to uniquely distinguish information in computer systems. UUIDs are essential in a wide range of applications, from database management to distributed computing, as they provide a reliable means of ensuring that each identifier is unique across space and time.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 ## Install
 
 ```
